@@ -1,0 +1,36 @@
+C:\Users\brhacke\source\repos\College Board PoC Model\College Board PoC Model\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\brhacke\source\repos\College Board PoC Model\College Board PoC Model\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\brhacke\source\repos\College Board PoC Model\College Board PoC Model\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\brhacke\source\repos\College Board PoC Model\College Board PoC Model\bin\Debug\netcoreapp2.2\College Board PoC Model.deps.json
+C:\Users\brhacke\source\repos\College Board PoC Model\College Board PoC Model\bin\Debug\netcoreapp2.2\College Board PoC Model.runtimeconfig.json
+C:\Users\brhacke\source\repos\College Board PoC Model\College Board PoC Model\bin\Debug\netcoreapp2.2\College Board PoC Model.runtimeconfig.dev.json
+C:\Users\brhacke\source\repos\College Board PoC Model\College Board PoC Model\bin\Debug\netcoreapp2.2\College Board PoC Model.dll
+C:\Users\brhacke\source\repos\College Board PoC Model\College Board PoC Model\bin\Debug\netcoreapp2.2\College Board PoC Model.pdb
+C:\Users\brhacke\source\repos\College Board PoC Model\College Board PoC Model\bin\Debug\netcoreapp2.2\College Board PoC Model.Views.dll
+C:\Users\brhacke\source\repos\College Board PoC Model\College Board PoC Model\bin\Debug\netcoreapp2.2\College Board PoC Model.Views.pdb
+C:\Users\brhacke\source\repos\College Board PoC Model\College Board PoC Model\obj\Debug\netcoreapp2.2\College Board PoC Model.RazorAssemblyInfo.cache
+C:\Users\brhacke\source\repos\College Board PoC Model\College Board PoC Model\obj\Debug\netcoreapp2.2\College Board PoC Model.RazorAssemblyInfo.cs
+C:\Users\brhacke\source\repos\College Board PoC Model\College Board PoC Model\obj\Debug\netcoreapp2.2\College Board PoC Model.AssemblyInfoInputs.cache
+C:\Users\brhacke\source\repos\College Board PoC Model\College Board PoC Model\obj\Debug\netcoreapp2.2\College Board PoC Model.AssemblyInfo.cs
+C:\Users\brhacke\source\repos\College Board PoC Model\College Board PoC Model\obj\Debug\netcoreapp2.2\College Board PoC Model.TagHelpers.input.cache
+C:\Users\brhacke\source\repos\College Board PoC Model\College Board PoC Model\obj\Debug\netcoreapp2.2\College Board PoC Model.TagHelpers.output.cache
+C:\Users\brhacke\source\repos\College Board PoC Model\College Board PoC Model\obj\Debug\netcoreapp2.2\College Board PoC Model.RazorCoreGenerate.cache
+C:\Users\brhacke\source\repos\College Board PoC Model\College Board PoC Model\obj\Debug\netcoreapp2.2\Razor\Views\Home\Api.cshtml.g.cs
+C:\Users\brhacke\source\repos\College Board PoC Model\College Board PoC Model\obj\Debug\netcoreapp2.2\Razor\Views\Home\Claims.cshtml.g.cs
+C:\Users\brhacke\source\repos\College Board PoC Model\College Board PoC Model\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\brhacke\source\repos\College Board PoC Model\College Board PoC Model\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\brhacke\source\repos\College Board PoC Model\College Board PoC Model\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\brhacke\source\repos\College Board PoC Model\College Board PoC Model\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\brhacke\source\repos\College Board PoC Model\College Board PoC Model\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\brhacke\source\repos\College Board PoC Model\College Board PoC Model\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\brhacke\source\repos\College Board PoC Model\College Board PoC Model\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\brhacke\source\repos\College Board PoC Model\College Board PoC Model\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\brhacke\source\repos\College Board PoC Model\College Board PoC Model\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\brhacke\source\repos\College Board PoC Model\College Board PoC Model\obj\Debug\netcoreapp2.2\College Board PoC Model.RazorTargetAssemblyInfo.cache
+C:\Users\brhacke\source\repos\College Board PoC Model\College Board PoC Model\obj\Debug\netcoreapp2.2\College Board PoC Model.RazorTargetAssemblyInfo.cs
+C:\Users\brhacke\source\repos\College Board PoC Model\College Board PoC Model\obj\Debug\netcoreapp2.2\College Board PoC Model.Views.pdb
+C:\Users\brhacke\source\repos\College Board PoC Model\College Board PoC Model\obj\Debug\netcoreapp2.2\College Board PoC Model.dll
+C:\Users\brhacke\source\repos\College Board PoC Model\College Board PoC Model\obj\Debug\netcoreapp2.2\College Board PoC Model.pdb
+C:\Users\brhacke\source\repos\College Board PoC Model\College Board PoC Model\obj\Debug\netcoreapp2.2\College Board PoC Model.csproj.CopyComplete
+C:\Users\brhacke\source\repos\College Board PoC Model\College Board PoC Model\obj\Debug\netcoreapp2.2\College Board PoC Model.csprojAssemblyReference.cache
+C:\Users\brhacke\source\repos\College Board PoC Model\College Board PoC Model\obj\Debug\netcoreapp2.2\Razor\Views\Session\SignedOut.cshtml.g.cs

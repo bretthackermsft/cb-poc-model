@@ -1,0 +1,16 @@
+C:\Users\brhacke\source\repos\CBPoC API\CBPoC API\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\brhacke\source\repos\CBPoC API\CBPoC API\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\brhacke\source\repos\CBPoC API\CBPoC API\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\brhacke\source\repos\CBPoC API\CBPoC API\bin\Debug\netcoreapp2.2\CBPoC API.deps.json
+C:\Users\brhacke\source\repos\CBPoC API\CBPoC API\bin\Debug\netcoreapp2.2\CBPoC API.runtimeconfig.json
+C:\Users\brhacke\source\repos\CBPoC API\CBPoC API\bin\Debug\netcoreapp2.2\CBPoC API.runtimeconfig.dev.json
+C:\Users\brhacke\source\repos\CBPoC API\CBPoC API\bin\Debug\netcoreapp2.2\CBPoC API.dll
+C:\Users\brhacke\source\repos\CBPoC API\CBPoC API\bin\Debug\netcoreapp2.2\CBPoC API.pdb
+C:\Users\brhacke\source\repos\CBPoC API\CBPoC API\obj\Debug\netcoreapp2.2\CBPoC API.csprojAssemblyReference.cache
+C:\Users\brhacke\source\repos\CBPoC API\CBPoC API\obj\Debug\netcoreapp2.2\CBPoC API.RazorAssemblyInfo.cache
+C:\Users\brhacke\source\repos\CBPoC API\CBPoC API\obj\Debug\netcoreapp2.2\CBPoC API.RazorAssemblyInfo.cs
+C:\Users\brhacke\source\repos\CBPoC API\CBPoC API\obj\Debug\netcoreapp2.2\CBPoC API.AssemblyInfoInputs.cache
+C:\Users\brhacke\source\repos\CBPoC API\CBPoC API\obj\Debug\netcoreapp2.2\CBPoC API.AssemblyInfo.cs
+C:\Users\brhacke\source\repos\CBPoC API\CBPoC API\obj\Debug\netcoreapp2.2\CBPoC API.RazorTargetAssemblyInfo.cache
+C:\Users\brhacke\source\repos\CBPoC API\CBPoC API\obj\Debug\netcoreapp2.2\CBPoC API.dll
+C:\Users\brhacke\source\repos\CBPoC API\CBPoC API\obj\Debug\netcoreapp2.2\CBPoC API.pdb
